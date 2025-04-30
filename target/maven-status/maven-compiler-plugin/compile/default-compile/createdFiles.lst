@@ -1,0 +1,13 @@
+com\padrao\ObservadorPedido.class
+com\padrao\Pedido.class
+com\padrao\FabricaItemMenu.class
+com\padrao\PagamentoCartaoCredito.class
+com\padrao\PagamentoDinheiro.class
+com\padrao\EstrategiaPagamento.class
+com\padrao\EquipeCozinha.class
+com\padrao\RestaurantManagementSystem.class
+com\padrao\Hamburguer.class
+com\padrao\ItemMenu.class
+com\padrao\Pizza.class
+com\padrao\EstoqueRestaurante.class
+com\padrao\Main.class
